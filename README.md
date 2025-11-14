@@ -64,10 +64,10 @@ https://www.linkedin.com/in/emmanuel-wakhongola-334831278/<br>https://wangila.ne
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: **Full-stack development & Cloud computing**  
+- 🌱 Currently learning: **Networking & Cybersecurity**  
 - 💻 I enjoy building: **Web apps, tools, automation scripts**  
-- 📫 Reach me at: *add your email here*  
-- 🎯 Goal: Become a top-tier software engineer  
+- 📫 Reach me at: *wangilawakhongola@gmail.com*  
+- 🎯 Goal: Become a top-tier Networking engineer  
 
 ---
 
