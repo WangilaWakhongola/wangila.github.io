@@ -19,7 +19,7 @@ https://wangila.netlify.app
 
 ## 📊 My GitHub Dashboard
 
-<p align="center">
+<p align="left">
   <!-- Dynamic GitHub Stats (Overall Performance / Grade Box) -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=WangilaWakhongola&show_icons=true&count_private=true&theme=radical" 
