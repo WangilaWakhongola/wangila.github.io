@@ -35,7 +35,7 @@ https://wangila.netlify.app
   />
 </p>
 
-<p align="center">
+<p align="Left">
   <!-- Streak / Consistency Badge -->
   <img 
     src="https://streak-stats.demolab.com?user=WangilaWakhongola&theme=radical&hide_border=true" 
