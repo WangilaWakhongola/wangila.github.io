@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="100%"  alt="wangilawakhongola" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF5733&center=true&vCenter=true&width=650&lines=Let's+code...;Let's+innovate...;Let's+create..." alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi, I'm Wangila Wakhongola 👋</h1>
 <p align="center">
   <em>Tech Enthusiast | Lifelong Learner</em>
