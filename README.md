@@ -27,7 +27,7 @@ https://wangila.netlify.app
   />
 </p>
 
-<p align="center">
+<p align="Left">
   <!-- Top Languages (Skill Distribution) -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangilaWakhongola&layout=compact&theme=radical" 
@@ -43,7 +43,7 @@ https://wangila.netlify.app
   />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Forks & Stars -->
   <img 
     src="https://img.shields.io/badge/Forks-🔱%20Dynamic-blue" 
